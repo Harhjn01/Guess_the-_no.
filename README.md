@@ -1,2 +1,2 @@
-# Guess_the-_no.
+# Guess_the_no.
 This is my first git repo
